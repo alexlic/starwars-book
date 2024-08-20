@@ -1,0 +1,36 @@
+{
+    "friends": [
+        {
+            "userID": "1111",
+            "name": "Obi Wan",
+            "profileImage": "https://img.asmedia.epimg.net/resizer/v2/YUN7V7UV7BDA5MLJBUDWXQPEUU.jpg?auth=fe370cbff9ee1ab2ec528b689e244fb3234111bd083250a3c0307557400be6ec&width=1288&height=725&smart=true",
+            "gender": "male",
+            "pronouns": "he/him",
+            "birthDate": "08/06/1963"
+        },
+        {
+            "userID": "1112",
+            "name": "Padmé Amidala",
+            "profileImage": "https://sm.ign.com/t/ign_latam/screenshot/default/padme_hesv.2560.jpg",
+            "gender": "female",
+            "pronouns": "she/her",
+            "birthDate": "12/06/1979"
+        },
+        {
+            "userID": "1113",
+            "name": "C-3PO",
+            "profileImage": "https://media.vandalsports.com/i/1706x960/6-2022/202267175430_1.jpg.webp",
+            "gender": "male",
+            "pronouns": "he/him",
+            "birthDate": "12/06/1977"
+        },
+        {
+            "userID": "1114",
+            "name": "Palpatine",
+            "profileImage": "https://lumiere-a.akamaihd.net/v1/images/palpatine-return-of-the-jedi-tal_d881391a.jpeg?region=0,0,1536,864",
+            "gender": "male",
+            "pronouns": "he/him",
+            "birthDate": "12/06/1933"
+        }
+    ]
+}

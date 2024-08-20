@@ -1,0 +1,39 @@
+{
+    "posts": [
+        {
+            "postId": "5",
+            "userId": "1111",
+            "content": "May the force be with you young padawans",
+            "liked": false,
+            "published": "12/11/2020"
+        },
+        {
+            "postId": "4",
+            "userId": "1112",
+            "content": "It must be difficult having sworn your life to the Jedi... not being able to visit the places you like... or do the things you like. Or be with the people I love",
+            "liked": true,
+            "published": "12/11/2020"
+        },
+        {
+            "postId": "3",
+            "userId": "1113",
+            "content": "Where are you R2-D2?",
+            "liked": false,
+            "published": "12/10/2020"
+        },
+        {
+            "postId": "2",
+            "userId": "1111",
+            "content": "Good morning my young padawans",
+            "liked": false,
+            "published": "12/11/2020"
+        },
+        {
+            "postId": "1",
+            "userId": "1114",
+            "content": "We are recruiting!, join to the dark side, please DM for more info",
+            "liked": true,
+            "published": "12/10/2020"
+        }
+    ]
+}
